@@ -6,7 +6,7 @@ import Home from './components/Home'
      <div>
 
       <Home/>
-     </div>
+     </div> 
    )
  }
  
